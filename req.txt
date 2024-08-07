@@ -1,0 +1,9 @@
+tensorflow
+numpy 
+opencv-python
+math
+mediapipe 
+pillow 
+time 
+os 
+
